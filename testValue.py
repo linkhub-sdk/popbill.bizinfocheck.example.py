@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 
 '''
-팝빌 휴폐업조회 API Python SDK Example
+팝빌 기업정보조회 API Python SDK Example
 
-- 업데이트 일자 : 2022-08-09
+- 업데이트 일자 : 2022-09-30
 - 연동 기술지원 연락처 : 1600-9854
 - 연동 기술지원 이메일 : code@linkhubcorp.com
 
