@@ -20,12 +20,12 @@ bizInfoCheckService.UseStaticIP = testValue.UseStaticIP
 bizInfoCheckService.UseLocalTimeYN = testValue.UseLocalTimeYN
 
 '''
-휴폐업조회 단가를 확인합니다.
+기업정보조회 단가를 확인합니다.
 - https://docs.popbill.com/bizinfocheck/python/api#GetUnitCost
 '''
 
 try:
-    print("=" * 15 + " 휴폐업조회 단가 확인 " + "=" * 15)
+    print("=" * 15 + " 기업정보조회 단가 확인 " + "=" * 15)
 
     # 팝빌회원 사업자번호
     CorpNum = testValue.testCorpNum
