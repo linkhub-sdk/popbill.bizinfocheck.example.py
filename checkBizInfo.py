@@ -21,7 +21,7 @@ bizInfoCheckService.UseLocalTimeYN = testValue.UseLocalTimeYN
 
 '''
 사업자번호 1건에 대한 기업정보를 확인합니다.
-- https://docs.popbill.com/bizinfocheck/python/api#CheckBizInfo
+- https://developers.popbill.com/reference/bizinfocheck/python/api/check#CheckBizInfo
 '''
 
 try:

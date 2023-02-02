@@ -21,7 +21,7 @@ bizInfoCheckService.UseLocalTimeYN = testValue.UseLocalTimeYN
 
 '''
 기업정보조회 단가를 확인합니다.
-- https://docs.popbill.com/bizinfocheck/python/api#GetUnitCost
+- https://developers.popbill.com/reference/bizinfocheck/python/api/point#GetUnitCost
 '''
 
 try:

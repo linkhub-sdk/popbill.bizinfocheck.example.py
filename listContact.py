@@ -21,7 +21,7 @@ bizInfoCheckService.UseLocalTimeYN = testValue.UseLocalTimeYN
 
 '''
 연동회원 사업자번호에 등록된 담당자(팝빌 로그인 계정) 목록을 확인합니다.
-- https://docs.popbill.com/bizinfocheck/python/api#ListContact
+- https://developers.popbill.com/reference/bizinfocheck/python/api/member#ListContact
 '''
 
 try:

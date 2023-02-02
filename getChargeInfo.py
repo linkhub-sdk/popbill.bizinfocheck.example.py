@@ -21,7 +21,7 @@ bizInfoCheckService.UseLocalTimeYN = testValue.UseLocalTimeYN
 
 '''
 연동회원의 기업정보조회 API 서비스 과금정보를 확인합니다.
-- https://docs.popbill.com/bizinfocheck/python/api#GetChargeInfo
+- https://developers.popbill.com/reference/bizinfocheck/python/api/point#GetChargeInfo
 '''
 
 try:

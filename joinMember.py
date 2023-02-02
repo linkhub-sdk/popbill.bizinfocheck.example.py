@@ -21,7 +21,7 @@ bizInfoCheckService.UseLocalTimeYN = testValue.UseLocalTimeYN
 
 '''
 사용자를 연동회원으로 가입처리합니다.
-- https://docs.popbill.com/bizinfocheck/python/api#JoinMember
+- https://developers.popbill.com/reference/bizinfocheck/python/api/member#JoinMember
 '''
 
 try:
