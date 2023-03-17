@@ -5,7 +5,7 @@ import imp
 
 imp.reload(sys)
 try:
-    sys.setdefaultencoding('UTF8')
+    sys.setdefaultencoding("UTF8")
 except Exception as E:
     pass
 
@@ -19,10 +19,10 @@ bizInfoCheckService.IPRestrictOnOff = testValue.IPRestrictOnOff
 bizInfoCheckService.UseStaticIP = testValue.UseStaticIP
 bizInfoCheckService.UseLocalTimeYN = testValue.UseLocalTimeYN
 
-'''
+"""
 기업정보조회 단가를 확인합니다.
 - https://developers.popbill.com/reference/bizinfocheck/python/api/point#GetUnitCost
-'''
+"""
 
 try:
     print("=" * 15 + " 기업정보조회 단가 확인 " + "=" * 15)

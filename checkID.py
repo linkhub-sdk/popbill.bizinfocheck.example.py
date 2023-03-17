@@ -5,7 +5,7 @@ import imp
 
 imp.reload(sys)
 try:
-    sys.setdefaultencoding('UTF8')
+    sys.setdefaultencoding("UTF8")
 except Exception as E:
     pass
 
@@ -19,10 +19,10 @@ bizInfoCheckService.IPRestrictOnOff = testValue.IPRestrictOnOff
 bizInfoCheckService.UseStaticIP = testValue.UseStaticIP
 bizInfoCheckService.UseLocalTimeYN = testValue.UseLocalTimeYN
 
-'''
+"""
 사용하고자 하는 아이디의 중복여부를 확인합니다.
 - https://developers.popbill.com/reference/bizinfocheck/python/api/member#CheckID
-'''
+"""
 
 try:
     print("=" * 15 + " 회원아이디 중복확인 " + "=" * 15)
